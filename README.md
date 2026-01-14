@@ -194,3 +194,16 @@ For each triggered alert, the following SOC Tier 1 workflow is executed:
 - Azure Network Security Groups
 - Kusto Query Language (KQL)
 - MITRE ATT&CK
+
+---
+
+## 📄 Incident Reports | 📸 Evidence & Screenshots
+
+Detailed incident documentation is available below:
+
+- [SOC Incident Reports (PDF)](doc/SOC_Incident_Reports.pdf)
+
+- Supporting evidence and screenshots are maintained in the [`/screenshots`](screenshots) directory.
+
+  
+
